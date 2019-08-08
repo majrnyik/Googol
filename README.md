@@ -1,6 +1,6 @@
 # Googol
  Basicamente trata-se de uma calculadora (soma, subtração, multiplicação, divisão), com o diferencial de que essa consegue aguentar números extremamente longos (como um googol, por exemplo). 
- A explicação cada função executada neste programa pode ser encontrada logo acima do código respectivo de cada uma. As variáveis também contém explicações logo que declaradas.
+ A explicação de cada função executada neste programa pode ser encontrada logo acima do código respectivo de cada uma. As variáveis também contém explicações logo que declaradas.
 
 INFORMAÇÕES GERAIS:
 
